@@ -1,0 +1,12 @@
+C:\Users\bhagyeshc\source\repos\Read_From_Excel\Read_From_Excel\obj\Debug\Read_From_Excel.csprojAssemblyReference.cache
+C:\Users\bhagyeshc\source\repos\Read_From_Excel\Read_From_Excel\obj\Debug\Read_From_Excel.csproj.CoreCompileInputs.cache
+C:\Users\bhagyeshc\source\repos\Read_From_Excel\Read_From_Excel\bin\Debug\Read_From_Excel.exe.config
+C:\Users\bhagyeshc\source\repos\Read_From_Excel\Read_From_Excel\bin\Debug\Read_From_Excel.exe
+C:\Users\bhagyeshc\source\repos\Read_From_Excel\Read_From_Excel\bin\Debug\Read_From_Excel.pdb
+C:\Users\bhagyeshc\source\repos\Read_From_Excel\Read_From_Excel\obj\Debug\Read_From_Excel.exe
+C:\Users\bhagyeshc\source\repos\Read_From_Excel\Read_From_Excel\obj\Debug\Read_From_Excel.pdb
+C:\Users\bhagyeshc\source\repos\Read_From_Excel\Read_From_Excel\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.10.0.dll
+C:\Users\bhagyeshc\source\repos\Read_From_Excel\Read_From_Excel\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\bhagyeshc\source\repos\Read_From_Excel\Read_From_Excel\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\bhagyeshc\source\repos\Read_From_Excel\Read_From_Excel\bin\Debug\stdole.dll
+C:\Users\bhagyeshc\source\repos\Read_From_Excel\Read_From_Excel\obj\Debug\Read_From_Excel.csproj.CopyComplete
